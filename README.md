@@ -11,7 +11,7 @@ This repository contains projects and coursework from EID 101, focusing on funda
 
 This repository includes the final project developed for the course:
 
-- **Final Project**: 
+- **Final Project**: Designed a line-following robot and ping pong ball launcher, integrating custom IR sensors, 3D CAD modeling, mechanical components, and advanced algorithms to achieve precise navigation, projectile accuracy, and obstacle detection.
 
 ## Copyright & Licensing
 
