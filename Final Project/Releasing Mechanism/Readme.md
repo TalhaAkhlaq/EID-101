@@ -2,7 +2,7 @@
 
 ## Potential Solution 1
 
-![Potential Solution 1]((https://github.com/TalhaAkhlaq/EID-101-Robotics-Crash-Course/blob/main/Final%20Project/Releasing%20Mechanism/Potential%20Solution%201.png))
+![Potential Solution 1](https://github.com/TalhaAkhlaq/EID-101-Robotics-Crash-Course/blob/main/Final%20Project/Releasing%20Mechanism/Potential%20Solution%201.png)
 
 Demonstration of a spring system that propels ping pong balls forward.
 
