@@ -17,10 +17,11 @@ This repository includes the final project developed for the course:
 
 ### Assembly Image
 
-The image below provides a clear view of the final assembly of the robot. It showcases the integrated components and the overall structure.
+The images below provide a clear view of the robot’s final assembly, showcasing the integrated components and overall structure.
 
 <div align="center">
-  <img src="https://github.com/TalhaAkhlaq/EID-101-Robotics-Crash-Course/blob/main/Final%20Project/Final%20Assembly/Assembly%20(2).png" width="80%" />
+  <img src="https://github.com/TalhaAkhlaq/EID-101-Robotics-Crash-Course/blob/main/Final%20Project/Final%20Assembly/Assembly%20(1).png" width="45%" />
+  <img src="https://github.com/TalhaAkhlaq/EID-101-Robotics-Crash-Course/blob/main/Final%20Project/Final%20Assembly/Assembly%20(2).png" width="45%" />
 </div>
 
 ### Interactive CAD Model
