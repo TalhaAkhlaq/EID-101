@@ -28,7 +28,7 @@ The images below provide a clear view of the robot’s final assembly, showcasin
 
 The following link leads to an interactive CAD model created with Onshape. You can explore the design in detail, view various components, and interact with the model to understand the assembly and mechanics more comprehensively.
 
-[View CAD Model](https://github.com/TalhaAkhlaq/EID-101-Robotics-Crash-Course/blob/main/Final%20Project/Final%20Assembly/Assembly%20(2).png)
+[View CAD Model](https://cad.onshape.com/documents/19c4a4df5b62b608f7001aa5/w/2607b09bb9cd1858c7b52cac/e/0fd435a9d10f8494b39ca0a5?renderMode=0&uiState=66cfd55a1de0c74fb233cdc8)
 
 
 ## Copyright & Licensing
