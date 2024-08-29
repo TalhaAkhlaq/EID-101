@@ -2,6 +2,8 @@
 
 ## Potential Solution 1
 
+![Potential Solution 1](https://github.com/YourUsername/YourRepoName/blob/main/Potential%20Solution%201.png)
+
 Demonstration of a spring system that propels ping pong balls forward.
 
 ## Potential Solution 2
