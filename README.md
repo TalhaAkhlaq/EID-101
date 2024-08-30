@@ -15,7 +15,7 @@ This repository includes the final project developed for the course:
 
 ## Visuals and CAD Model
 
-### Assembly Image
+### Final Images
 
 The images below provide a clear view of the robot’s final assembly, showcasing the integrated components and overall structure.
 
